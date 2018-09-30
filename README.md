@@ -1,4 +1,6 @@
-# AngularObjectExplorer
+# Object Explorer using Angular
+
+(inspired by [Object explorer](https://github.com/sdras/object-explorer) project of @sdras)
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.2.3.
 
